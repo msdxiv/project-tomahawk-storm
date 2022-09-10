@@ -1,0 +1,15 @@
+ModificationType: Mod
+Name: Project Tomahawk:Storm
+Version: 1.2 Beta Patch 1
+SimpleDownloadLink: ''
+UIImageSourceLink: https://i.imgur.com/7THtD2d.png
+DiscordLink: https://discord.gg/7NsTfDD
+ModDBLink: https://www.moddb.com/mods/project-tomahawkstorm
+NewsLink: https://www.moddb.com/mods/project-tomahawkstorm/news/pts-v12-release-quick-bulletin
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9001
+S3BucketName: tomohawkstorm
+S3FolderName: Version 1.2 Patch 1
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
