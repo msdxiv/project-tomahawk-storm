@@ -7,7 +7,7 @@ DiscordLink: https://discord.gg/7NsTfDD
 ModDBLink: https://www.moddb.com/mods/project-tomahawkstorm
 NewsLink: https://www.moddb.com/mods/project-tomahawkstorm/news/pts-v12-release-quick-bulletin
 DependenceName: ''
-S3HostLink: gen.insave.ovh:9001
+S3HostLink: gen.insave.ovh:9000
 S3BucketName: tomohawkstorm
 S3FolderName: tomohawkstorm
 S3HostPublicKey: ''
